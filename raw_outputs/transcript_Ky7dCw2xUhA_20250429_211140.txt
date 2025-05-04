@@ -1,0 +1,171 @@
+```json
+[
+  {
+    "topic": "Проект для строительства загородного дома",
+    "keywords": [
+      "проект",
+      "строительство",
+      "загородный дом",
+      "архитектурно-строительный проект",
+      "инженерные коммуникации",
+      "генеральный план",
+      "конструктив",
+      "строительные материалы"
+    ],
+    "summary": "Проект для строительства загородного дома состоит из двух основных частей: архитектурно-строительного проекта и проекта инженерных коммуникаций. Архитектурно-строительный проект включает в себя генеральный план, конструктивные решения, фасады, кровлю и другие элементы, а проект инженерных коммуникаций охватывает все системы жизнеобеспечения дома.",
+    "text": "Проект для строительства загородного дома — это комплексная документация, которая включает в себя архитектурно-строительную часть и инженерные коммуникации. Архитектурно-строительная часть включает генеральный план, конструктивные решения, фасады, кровлю и другие элементы. Инженерные коммуникации охватывают водоснабжение, водоотведение, отопление, вентиляцию и электричество. Без проекта строительство дома может быть затруднено, а качество постройки может быть сомнительным.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Вступление о проекте для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m00s"
+      },
+      {
+        "timestamp": "00:06",
+        "highlight": "Предложение поговорить о проекте для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m06s"
+      },
+      {
+        "timestamp": "00:13",
+        "highlight": "Представление автора и приветствие",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m13s"
+      },
+      {
+        "timestamp": "00:17",
+        "highlight": "Обсуждение необходимости проекта для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m17s"
+      },
+      {
+        "timestamp": "00:25",
+        "highlight": "Вопросы о составе и стоимости проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m25s"
+      },
+      {
+        "timestamp": "00:31",
+        "highlight": "Акцент на проекте для строительства дома для постоянного проживания",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m31s"
+      },
+      {
+        "timestamp": "00:46",
+        "highlight": "Различное понимание проекта у заказчиков",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=00m46s"
+      },
+      {
+        "timestamp": "01:00",
+        "highlight": "Обсуждение полноценности проектной документации",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=01m00s"
+      },
+      {
+        "timestamp": "01:13",
+        "highlight": "Необходимость в полноценном проекте для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=01m13s"
+      },
+      {
+        "timestamp": "01:19",
+        "highlight": "Попытка найти определение проекта для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=01m19s"
+      },
+      {
+        "timestamp": "01:27",
+        "highlight": "Трудности в поиске определения проекта для строительства загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=01m27s"
+      },
+      {
+        "timestamp": "01:46",
+        "highlight": "Выбор между строительством дачи или капитального дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=01m46s"
+      },
+      {
+        "timestamp": "02:01",
+        "highlight": "Предложение о помощи в подготовке проектной документации для дачи",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=02m01s"
+      },
+      {
+        "timestamp": "02:23",
+        "highlight": "Ознакомление с предложением о проекте для строительства капитального дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=02m23s"
+      },
+      {
+        "timestamp": "02:34",
+        "highlight": "История проектирования в советское время",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=02m34s"
+      },
+      {
+        "timestamp": "02:53",
+        "highlight": "Современное проектирование загородного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=02m53s"
+      },
+      {
+        "timestamp": "03:14",
+        "highlight": "Разделение проекта на архитектурно-строительную часть и инженерные коммуникации",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=03m14s"
+      },
+      {
+        "timestamp": "03:23",
+        "highlight": "Описание архитектурно-строительной части проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=03m23s"
+      },
+      {
+        "timestamp": "03:54",
+        "highlight": "Современное проектирование с помощью компьютерной графики",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=03m54s"
+      },
+      {
+        "timestamp": "04:06",
+        "highlight": "Разделение проекта на архитектурно-строительную часть и инженерные коммуникации",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=04m06s"
+      },
+      {
+        "timestamp": "04:14",
+        "highlight": "Описание архитектурно-строительной части проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=04m14s"
+      },
+      {
+        "timestamp": "04:23",
+        "highlight": "Содержание архитектурно-строительной части проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=04m23s"
+      },
+      {
+        "timestamp": "04:40",
+        "highlight": "Включение в проект всех элементов дома",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=04m40s"
+      },
+      {
+        "timestamp": "04:45",
+        "highlight": "Описание инженерных коммуникаций в проекте",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=04m45s"
+      },
+      {
+        "timestamp": "05:05",
+        "highlight": "Описание работы проектировщиков над архитектурно-строительной частью проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=05m05s"
+      },
+      {
+        "timestamp": "05:34",
+        "highlight": "Обсуждение влияния архитектуры на конструктив",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=05m34s"
+      },
+      {
+        "timestamp": "05:45",
+        "highlight": "Описание инженерных коммуникаций в проекте",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=05m45s"
+      },
+      {
+        "timestamp": "06:11",
+        "highlight": "Вопросы вентиляции и размещения дымохода",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=06m11s"
+      },
+      {
+        "timestamp": "06:27",
+        "highlight": "Необходимость внесения изменений в проект",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=06m27s"
+      },
+      {
+        "timestamp": "06:45",
+        "highlight": "Заключительные слова и приглашение к комментариям",
+        "youtube_url": "https://www.youtube.com/watch?v=Ky7dCw2xUhA_20250429_211140#t=06m45s"
+      }
+    ]
+  }
+]
+```

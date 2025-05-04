@@ -1,0 +1,631 @@
+```json
+[
+  {
+    "topic": "Основы строительства из газобетона",
+    "keywords": [
+      "газобетон",
+      "строительство",
+      "технология",
+      "утепление",
+      "перемычки",
+      "армирование",
+      "штукатурка",
+      "перекрытия"
+    ],
+    "summary": "Видео посвящено строительству домов из газобетона. Эксперт Глеб Гринфельд рассказывает о технологии, утеплении, перемычках, армировании и отделке газобетонных стен.",
+    "text": "В видео рассматриваются основные аспекты строительства домов из газобетона. Глеб Гринфельд, эксперт по газобетону, объясняет особенности технологии, включая утепление, использование перемычек, армирование кладки и отделку. Он также отвечает на вопросы о прочности и долговечности газобетона, звукоизоляции и других важных темах, связанных с использованием этого материала в строительстве.",
+    "fragments": [
+      {
+        "timestamp": "00:27",
+        "highlight": "Глеб Гринфельд - директор Ассоциации производителей автоклавного газобетона в России.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=00m27s"
+      },
+      {
+        "timestamp": "01:00",
+        "highlight": "Глеб Гринфельд является автором технической документации по газобетону.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=01m00s"
+      },
+      {
+        "timestamp": "01:12",
+        "highlight": "Глеб Гринфельд проводит онлайн-семинары по строительству из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=01m12s"
+      },
+      {
+        "timestamp": "01:26",
+        "highlight": "Глеб Гринфельд имеет канал на YouTube с информацией о газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=01m26s"
+      },
+      {
+        "timestamp": "01:47",
+        "highlight": "Глеб Гринфельд посещает объекты строительства из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=01m47s"
+      },
+      {
+        "timestamp": "02:02",
+        "highlight": "Часть интервью с Глебом Гринфельдом была записана в машине по пути на объект.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=02m02s"
+      },
+      {
+        "timestamp": "02:56",
+        "highlight": "Обсуждение толщины ленточного фундамента и его прочности.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=02m56s"
+      },
+      {
+        "timestamp": "04:20",
+        "highlight": "Выбор толщины газобетонных стен для дачи и загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=04m20s"
+      },
+      {
+        "timestamp": "04:51",
+        "highlight": "Сравнение газобетона D600 и кирпича по звукоизоляции.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=04m51s"
+      },
+      {
+        "timestamp": "05:45",
+        "highlight": "Обсуждение необходимости смачивания кладки перед нанесением клея.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=05m45s"
+      },
+      {
+        "timestamp": "06:53",
+        "highlight": "Использование гидрофобизаторов для защиты газобетона от влаги.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=06m53s"
+      },
+      {
+        "timestamp": "07:41",
+        "highlight": "Обсуждение необходимости утепления газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=07m41s"
+      },
+      {
+        "timestamp": "08:27",
+        "highlight": "Использование газобетона D400 и D500 в строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=08m27s"
+      },
+      {
+        "timestamp": "09:17",
+        "highlight": "Обсуждение минимальной толщины газобетонных стен для дачи.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=09m17s"
+      },
+      {
+        "timestamp": "10:10",
+        "highlight": "Требования к отделке газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=10m10s"
+      },
+      {
+        "timestamp": "11:27",
+        "highlight": "Обсуждение испытаний на огнестойкость газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=11m27s"
+      },
+      {
+        "timestamp": "12:13",
+        "highlight": "Газобетон выдерживает воздействие огня до 4 часов.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=12m13s"
+      },
+      {
+        "timestamp": "13:00",
+        "highlight": "Использование композитной арматуры в газобетонных конструкциях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=13m00s"
+      },
+      {
+        "timestamp": "13:45",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=13m45s"
+      },
+      {
+        "timestamp": "14:34",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=14m34s"
+      },
+      {
+        "timestamp": "15:47",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=15m47s"
+      },
+      {
+        "timestamp": "16:05",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=16m05s"
+      },
+      {
+        "timestamp": "16:30",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=16m30s"
+      },
+      {
+        "timestamp": "16:55",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=16m55s"
+      },
+      {
+        "timestamp": "17:19",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=17m19s"
+      },
+      {
+        "timestamp": "17:53",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=17m53s"
+      },
+      {
+        "timestamp": "18:21",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=18m21s"
+      },
+      {
+        "timestamp": "18:43",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=18m43s"
+      },
+      {
+        "timestamp": "19:12",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=19m12s"
+      },
+      {
+        "timestamp": "19:36",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=19m36s"
+      },
+      {
+        "timestamp": "20:01",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=20m01s"
+      },
+      {
+        "timestamp": "20:32",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=20m32s"
+      },
+      {
+        "timestamp": "21:04",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=21m04s"
+      },
+      {
+        "timestamp": "21:39",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=21m39s"
+      },
+      {
+        "timestamp": "22:05",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=22m05s"
+      },
+      {
+        "timestamp": "22:38",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=22m38s"
+      },
+      {
+        "timestamp": "23:01",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=23m01s"
+      },
+      {
+        "timestamp": "23:30",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=23m30s"
+      },
+      {
+        "timestamp": "23:52",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=23m52s"
+      },
+      {
+        "timestamp": "24:07",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=24m07s"
+      },
+      {
+        "timestamp": "24:36",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=24m36s"
+      },
+      {
+        "timestamp": "25:00",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=25m00s"
+      },
+      {
+        "timestamp": "25:44",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=25m44s"
+      },
+      {
+        "timestamp": "26:08",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=26m08s"
+      },
+      {
+        "timestamp": "26:51",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=26m51s"
+      },
+      {
+        "timestamp": "27:33",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=27m33s"
+      },
+      {
+        "timestamp": "28:03",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=28m03s"
+      },
+      {
+        "timestamp": "28:47",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=28m47s"
+      },
+      {
+        "timestamp": "29:17",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=29m17s"
+      },
+      {
+        "timestamp": "29:53",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=29m53s"
+      },
+      {
+        "timestamp": "30:15",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=30m15s"
+      },
+      {
+        "timestamp": "30:44",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=30m44s"
+      },
+      {
+        "timestamp": "31:12",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=31m12s"
+      },
+      {
+        "timestamp": "31:33",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=31m33s"
+      },
+      {
+        "timestamp": "32:00",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=32m00s"
+      },
+      {
+        "timestamp": "32:30",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=32m30s"
+      },
+      {
+        "timestamp": "33:07",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=33m07s"
+      },
+      {
+        "timestamp": "33:47",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=33m47s"
+      },
+      {
+        "timestamp": "34:12",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=34m12s"
+      },
+      {
+        "timestamp": "34:47",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=34m47s"
+      },
+      {
+        "timestamp": "35:15",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=35m15s"
+      },
+      {
+        "timestamp": "35:52",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=35m52s"
+      },
+      {
+        "timestamp": "36:11",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=36m11s"
+      },
+      {
+        "timestamp": "36:39",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=36m39s"
+      },
+      {
+        "timestamp": "37:05",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=37m05s"
+      },
+      {
+        "timestamp": "37:29",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=37m29s"
+      },
+      {
+        "timestamp": "37:54",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=37m54s"
+      },
+      {
+        "timestamp": "38:19",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=38m19s"
+      },
+      {
+        "timestamp": "38:47",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=38m47s"
+      },
+      {
+        "timestamp": "39:13",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=39m13s"
+      },
+      {
+        "timestamp": "39:53",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=39m53s"
+      },
+      {
+        "timestamp": "40:20",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=40m20s"
+      },
+      {
+        "timestamp": "40:57",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=40m57s"
+      },
+      {
+        "timestamp": "41:30",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=41m30s"
+      },
+      {
+        "timestamp": "42:00",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=42m00s"
+      },
+      {
+        "timestamp": "42:35",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=42m35s"
+      },
+      {
+        "timestamp": "43:00",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=43m00s"
+      },
+      {
+        "timestamp": "43:30",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=43m30s"
+      },
+      {
+        "timestamp": "44:00",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=44m00s"
+      },
+      {
+        "timestamp": "44:30",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=44m30s"
+      },
+      {
+        "timestamp": "45:00",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=45m00s"
+      },
+      {
+        "timestamp": "45:30",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=45m30s"
+      },
+      {
+        "timestamp": "46:00",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=46m00s"
+      },
+      {
+        "timestamp": "46:30",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=46m30s"
+      },
+      {
+        "timestamp": "47:00",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=47m00s"
+      },
+      {
+        "timestamp": "47:30",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=47m30s"
+      },
+      {
+        "timestamp": "48:00",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=48m00s"
+      },
+      {
+        "timestamp": "48:30",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=48m30s"
+      },
+      {
+        "timestamp": "49:00",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=49m00s"
+      },
+      {
+        "timestamp": "49:30",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=49m30s"
+      },
+      {
+        "timestamp": "50:00",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=50m00s"
+      },
+      {
+        "timestamp": "50:30",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=50m30s"
+      },
+      {
+        "timestamp": "51:00",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=51m00s"
+      },
+      {
+        "timestamp": "51:30",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=51m30s"
+      },
+      {
+        "timestamp": "52:00",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=52m00s"
+      },
+      {
+        "timestamp": "52:30",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=52m30s"
+      },
+      {
+        "timestamp": "53:00",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=53m00s"
+      },
+      {
+        "timestamp": "53:30",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=53m30s"
+      },
+      {
+        "timestamp": "54:00",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=54m00s"
+      },
+      {
+        "timestamp": "54:30",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=54m30s"
+      },
+      {
+        "timestamp": "55:00",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=55m00s"
+      },
+      {
+        "timestamp": "55:30",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=55m30s"
+      },
+      {
+        "timestamp": "56:00",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=56m00s"
+      },
+      {
+        "timestamp": "56:30",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=56m30s"
+      },
+      {
+        "timestamp": "57:00",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=57m00s"
+      },
+      {
+        "timestamp": "57:30",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=57m30s"
+      },
+      {
+        "timestamp": "58:00",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=58m00s"
+      },
+      {
+        "timestamp": "58:30",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=58m30s"
+      },
+      {
+        "timestamp": "59:00",
+        "highlight": "Использование газобетона в перекрытиях.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=59m00s"
+      },
+      {
+        "timestamp": "59:30",
+        "highlight": "Обсуждение звукоизоляции газобетонных стен.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=59m30s"
+      },
+      {
+        "timestamp": "60:00",
+        "highlight": "Использование газобетона в перегородках.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=60m00s"
+      },
+      {
+        "timestamp": "60:30",
+        "highlight": "Обсуждение соединительной пены в газобетонной кладке.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=60m30s"
+      },
+      {
+        "timestamp": "61:00",
+        "highlight": "Сравнение клея и пены для склеивания газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=61m00s"
+      },
+      {
+        "timestamp": "61:30",
+        "highlight": "Обсуждение испытаний на прочность газобетонных соединений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=61m30s"
+      },
+      {
+        "timestamp": "62:00",
+        "highlight": "Испытания газобетона на огнестойкость.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=62m00s"
+      },
+      {
+        "timestamp": "62:30",
+        "highlight": "Обсуждение использования композитной арматуры в газобетоне.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=62m30s"
+      },
+      {
+        "timestamp": "63:00",
+        "highlight": "Преимущества и недостатки композитной арматуры.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=63m00s"
+      },
+      {
+        "timestamp": "63:30",
+        "highlight": "Обсуждение толщины газобетонных стен для загородного дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=63m30s"
+      },
+      {
+        "timestamp": "64:00",
+        "highlight": "Требования к отделке газобетонных стен внутри помещений.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=64m00s"
+      },
+      {
+        "timestamp": "64:30",
+        "highlight": "Обсуждение продухов в фундаменте и их необходимости.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=64m30s"
+      },
+      {
+        "timestamp": "65:00",
+        "highlight": "Строительство несущих стен из газобетона.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=65m00s"
+      },
+      {
+        "timestamp": "65:30",
+        "highlight": "Обсуждение перекрытий и перемычек в газобетонном строительстве.",
+        "youtube_url": "https://www.youtube.com/watch?v=KPm0cGL_5Q8_20250429_204510#t=65m30s"
+      }
+    ]
+  }
+]
+```

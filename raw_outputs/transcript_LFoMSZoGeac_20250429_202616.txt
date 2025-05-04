@@ -1,0 +1,481 @@
+```json
+[
+  {
+    "topic": "Стоимость домокомплектов из клееного бруса",
+    "keywords": [
+      "домокомплект",
+      "фахверк",
+      "клееный брус",
+      "стеклопакеты",
+      "утеплитель",
+      "стоимость",
+      "монтаж",
+      "логистика"
+    ],
+    "summary": "Обзор стоимости различных домокомплектов из клееного бруса, включая цены на материалы и монтаж, а также акции и скидки на строительство.",
+    "text": "В видео представлен подробный обзор стоимости домокомплектов из клееного бруса и стеклопакетов. Рассмотрены различные проекты домов с площадью от 42 до 273 квадратных метров. Каждый домокомплект включает в себя клееный брус, стеклопакеты и утеплитель. Цены указаны на август 2019 года. Также обсуждается стоимость монтажа и логистики. Предлагаются скидки на строительство в сентябре.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Сколько стоит домокомплект фахверкового дома? Об этом поговорим сегодня.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=00m00s"
+      },
+      {
+        "timestamp": "00:07",
+        "highlight": "Добрый день, дорогие друзья! Меня зовут Александр, я приветствую вас на проекте «СтройЖиви».",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=00m07s"
+      },
+      {
+        "timestamp": "00:24",
+        "highlight": "В этом видеоролике я расскажу о том, какого сечения должны быть клееные конструкционные балки для сборки качественного фахверкового дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=00m24s"
+      },
+      {
+        "timestamp": "00:30",
+        "highlight": "Расскажу о видах утеплителя и стеклопакетах.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=00m30s"
+      },
+      {
+        "timestamp": "00:55",
+        "highlight": "Сегодня я хочу ответить на самый популярный вопрос и рассказать вам о том, сколько на сегодняшний день (на август 2019 года) стоит домокомплект.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=00m55s"
+      },
+      {
+        "timestamp": "01:15",
+        "highlight": "Начнем с самого маленького домика — выставочного, площадью 42 квадратных метра.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=01m15s"
+      },
+      {
+        "timestamp": "01:39",
+        "highlight": "Стоимость клееной конструкционной балки для этого домика — 136 675 рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=01m39s"
+      },
+      {
+        "timestamp": "01:57",
+        "highlight": "Стоимость однокамерных стеклопакетов — 160 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=01m57s"
+      },
+      {
+        "timestamp": "02:10",
+        "highlight": "Стоимость утеплителя PIR для стен — 57 тысяч рублей, для кровли — 132 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=02m10s"
+      },
+      {
+        "timestamp": "02:25",
+        "highlight": "Итого за материалы получается около 480 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=02m25s"
+      },
+      {
+        "timestamp": "02:40",
+        "highlight": "Стоимость сборки каркаса — 25 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=02m40s"
+      },
+      {
+        "timestamp": "02:50",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 60 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=02m50s"
+      },
+      {
+        "timestamp": "02:57",
+        "highlight": "Стоимость монтажа утеплителя на стены — 28 тысяч рублей, на кровлю — 66 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=02m57s"
+      },
+      {
+        "timestamp": "03:04",
+        "highlight": "Итого за работы — около 178 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=03m04s"
+      },
+      {
+        "timestamp": "03:15",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 658 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=03m15s"
+      },
+      {
+        "timestamp": "03:59",
+        "highlight": "Следующий дом площадью 108 квадратных метров, один этаж.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=03m59s"
+      },
+      {
+        "timestamp": "04:20",
+        "highlight": "Стоимость клееных конструкционных балок — 527 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=04m20s"
+      },
+      {
+        "timestamp": "04:27",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 436 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=04m27s"
+      },
+      {
+        "timestamp": "04:56",
+        "highlight": "Стоимость утеплителя PIR для стен — 86 тысяч рублей, для кровли — 183 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=04m56s"
+      },
+      {
+        "timestamp": "05:07",
+        "highlight": "Итого за материалы — 1 миллион 217 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m07s"
+      },
+      {
+        "timestamp": "05:16",
+        "highlight": "Стоимость монтажа каркаса — 80 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m16s"
+      },
+      {
+        "timestamp": "05:26",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 82 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m26s"
+      },
+      {
+        "timestamp": "05:30",
+        "highlight": "Стоимость утепления стен — 35 тысяч рублей, кровли — 90 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m30s"
+      },
+      {
+        "timestamp": "05:40",
+        "highlight": "Итого за работы — 290 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m40s"
+      },
+      {
+        "timestamp": "05:45",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 1 миллион 507 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=05m45s"
+      },
+      {
+        "timestamp": "06:03",
+        "highlight": "Следующий дом площадью 119 квадратных метров, два этажа.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m03s"
+      },
+      {
+        "timestamp": "06:20",
+        "highlight": "Стоимость клееных конструкционных балок — 593 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m20s"
+      },
+      {
+        "timestamp": "06:27",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 370 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m27s"
+      },
+      {
+        "timestamp": "06:40",
+        "highlight": "Стоимость утеплителя PIR для стен — 86 тысяч рублей, для кровли — 140 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m40s"
+      },
+      {
+        "timestamp": "06:45",
+        "highlight": "Итого за материалы — 1 миллион 190 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m45s"
+      },
+      {
+        "timestamp": "06:49",
+        "highlight": "Стоимость монтажа каркаса — 121 тысяча рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m49s"
+      },
+      {
+        "timestamp": "06:57",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 193 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=06m57s"
+      },
+      {
+        "timestamp": "07:05",
+        "highlight": "Стоимость утепления стен — 43 тысячи рублей, кровли — 70 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m05s"
+      },
+      {
+        "timestamp": "07:10",
+        "highlight": "Итого за работы — 428 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m10s"
+      },
+      {
+        "timestamp": "07:18",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 1 миллион 618 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m18s"
+      },
+      {
+        "timestamp": "07:25",
+        "highlight": "Следующий дом площадью 142 квадратных метра, два этажа.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m25s"
+      },
+      {
+        "timestamp": "07:47",
+        "highlight": "Стоимость клееных конструкционных балок — 675 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m47s"
+      },
+      {
+        "timestamp": "07:52",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 475 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=07m52s"
+      },
+      {
+        "timestamp": "08:00",
+        "highlight": "Стоимость утеплителя PIR для стен — 72 тысячи рублей, для кровли — 154 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m00s"
+      },
+      {
+        "timestamp": "08:10",
+        "highlight": "Итого за материалы — 1 миллион 376 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m10s"
+      },
+      {
+        "timestamp": "08:18",
+        "highlight": "Стоимость монтажа каркаса — 122 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m18s"
+      },
+      {
+        "timestamp": "08:23",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 154 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m23s"
+      },
+      {
+        "timestamp": "08:30",
+        "highlight": "Стоимость утепления стен — 36 тысяч рублей, кровли — 77 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m30s"
+      },
+      {
+        "timestamp": "08:37",
+        "highlight": "Итого за работы — 390 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m37s"
+      },
+      {
+        "timestamp": "08:43",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 1 миллион 766 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m43s"
+      },
+      {
+        "timestamp": "08:52",
+        "highlight": "Следующий дом площадью 151 квадратный метр, один этаж.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=08m52s"
+      },
+      {
+        "timestamp": "09:19",
+        "highlight": "Стоимость клееных конструкционных балок — 630 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m19s"
+      },
+      {
+        "timestamp": "09:23",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 436 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m23s"
+      },
+      {
+        "timestamp": "09:30",
+        "highlight": "Стоимость утеплителя PIR для стен — 61 тысяча рублей, для кровли — 292 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m30s"
+      },
+      {
+        "timestamp": "09:40",
+        "highlight": "Итого за материалы — 1 миллион 426 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m40s"
+      },
+      {
+        "timestamp": "09:48",
+        "highlight": "Стоимость монтажа каркаса — 117 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m48s"
+      },
+      {
+        "timestamp": "09:52",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 161 тысяча рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=09m52s"
+      },
+      {
+        "timestamp": "10:00",
+        "highlight": "Стоимость утепления стен — 30 тысяч рублей, кровли — 146 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m00s"
+      },
+      {
+        "timestamp": "10:08",
+        "highlight": "Итого за работы — 455 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m08s"
+      },
+      {
+        "timestamp": "10:12",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 1 миллион 881 тысяча рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m12s"
+      },
+      {
+        "timestamp": "10:22",
+        "highlight": "Следующий дом площадью 170 квадратных метров, два этажа.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m22s"
+      },
+      {
+        "timestamp": "10:37",
+        "highlight": "Стоимость клееных конструкционных балок — 781 тысяча рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m37s"
+      },
+      {
+        "timestamp": "10:43",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 605 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m43s"
+      },
+      {
+        "timestamp": "10:50",
+        "highlight": "Стоимость утеплителя PIR для стен — 77 тысяч рублей, для кровли — 173 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m50s"
+      },
+      {
+        "timestamp": "10:57",
+        "highlight": "Итого за материалы — 1 миллион 636 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=10m57s"
+      },
+      {
+        "timestamp": "11:06",
+        "highlight": "Стоимость монтажа каркаса — 149 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m06s"
+      },
+      {
+        "timestamp": "11:10",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 214 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m10s"
+      },
+      {
+        "timestamp": "11:18",
+        "highlight": "Стоимость утепления стен — 38 тысяч рублей, кровли — 86 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m18s"
+      },
+      {
+        "timestamp": "11:25",
+        "highlight": "Итого за работы — 488 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m25s"
+      },
+      {
+        "timestamp": "11:30",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 2 миллиона 124 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m30s"
+      },
+      {
+        "timestamp": "11:40",
+        "highlight": "Последний дом площадью 273 квадратных метра, два этажа.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m40s"
+      },
+      {
+        "timestamp": "11:50",
+        "highlight": "Стоимость клееных конструкционных балок — 1 миллион 343 тысячи рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m50s"
+      },
+      {
+        "timestamp": "11:57",
+        "highlight": "Стоимость двухкамерных стеклопакетов — 715 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=11m57s"
+      },
+      {
+        "timestamp": "12:03",
+        "highlight": "Стоимость утеплителя PIR для стен — 203 тысячи рублей, для кровли — 215 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m03s"
+      },
+      {
+        "timestamp": "12:10",
+        "highlight": "Итого за материалы — 2 миллиона 478 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m10s"
+      },
+      {
+        "timestamp": "12:18",
+        "highlight": "Стоимость монтажа каркаса — 220 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m18s"
+      },
+      {
+        "timestamp": "12:22",
+        "highlight": "Стоимость установки стеклопакетов с герметизацией — 258 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m22s"
+      },
+      {
+        "timestamp": "12:30",
+        "highlight": "Стоимость утепления стен — 101 тысяча рублей, кровли — 107 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m30s"
+      },
+      {
+        "timestamp": "12:37",
+        "highlight": "Итого за работы — 690 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m37s"
+      },
+      {
+        "timestamp": "12:43",
+        "highlight": "Общая стоимость домокомплекта со сборкой — 3 миллиона 168 тысяч рублей.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=12m43s"
+      },
+      {
+        "timestamp": "13:20",
+        "highlight": "Предлагается скидка 10% на все домокомплекты при заказе в сентябре.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=13m20s"
+      },
+      {
+        "timestamp": "13:35",
+        "highlight": "Акция на сентябрь: скидки от 50 до 300 тысяч рублей в зависимости от площади дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=13m35s"
+      },
+      {
+        "timestamp": "14:00",
+        "highlight": "Заявки на расчет стоимости принимаются только через сайт.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m00s"
+      },
+      {
+        "timestamp": "14:10",
+        "highlight": "Клееный брус закупается в Вышнем Волочке.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m10s"
+      },
+      {
+        "timestamp": "14:20",
+        "highlight": "Стоимость клееного бруса со всеми запилами и обработкой — 35 500 рублей за куб.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m20s"
+      },
+      {
+        "timestamp": "14:30",
+        "highlight": "В стоимость входит упаковка и погрузка на транспорт.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m30s"
+      },
+      {
+        "timestamp": "14:40",
+        "highlight": "Заказчик может самостоятельно организовать доставку материалов.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m40s"
+      },
+      {
+        "timestamp": "14:50",
+        "highlight": "Стоимость логистики не входит в цену домокомплекта.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=14m50s"
+      },
+      {
+        "timestamp": "15:00",
+        "highlight": "Стоимость монтажа зависит от сложности подъездных путей и других факторов.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m00s"
+      },
+      {
+        "timestamp": "15:10",
+        "highlight": "Заказчик может выбрать любой проект и заказать его у нас.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m10s"
+      },
+      {
+        "timestamp": "15:20",
+        "highlight": "Мы проектируем дома по эскизам заказчика.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m20s"
+      },
+      {
+        "timestamp": "15:30",
+        "highlight": "Стоимость проектирования обсуждается индивидуально.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m30s"
+      },
+      {
+        "timestamp": "15:40",
+        "highlight": "Мы гарантируем качество строительства и используем только проверенные материалы.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m40s"
+      },
+      {
+        "timestamp": "15:50",
+        "highlight": "Заказчик может посетить наши выставочные дома в Санкт-Петербурге и Московской области.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=15m50s"
+      },
+      {
+        "timestamp": "16:00",
+        "highlight": "Мы предлагаем скидки на строительство в сентябре.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=16m00s"
+      },
+      {
+        "timestamp": "16:10",
+        "highlight": "Заявки на расчет стоимости принимаются только через сайт.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=16m10s"
+      },
+      {
+        "timestamp": "16:20",
+        "highlight": "Мы ждем ваших заявок и готовы построить для вас качественный дом.",
+        "youtube_url": "https://www.youtube.com/watch?v=LFoMSZoGeac_20250429_202616#t=16m20s"
+      }
+    ]
+  }
+]
+```

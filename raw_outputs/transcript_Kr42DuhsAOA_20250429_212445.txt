@@ -1,0 +1,113 @@
+```json
+[
+  {
+    "topic": "Обзор строительства каркасного дома",
+    "keywords": [
+      "каркасный дом",
+      "стройка",
+      "Москва",
+      "обзор",
+      "консультация"
+    ],
+    "summary": "Обзор каркасного дома, строительство которого ведётся с использованием шестиметровой доски и других нестандартных решений.",
+    "text": "В видео автор посещает объект строительства каркасного дома в Павловском Посаде. Он обсуждает с заказчиком и строителями особенности конструкции, в частности использование шестиметровой доски для стоек, крепление балок и обшивку OSB. Выделяются проблемы с креплением саморезов, необходимость дополнительного усиления конструкции и антисептирования деревянных элементов. Также обсуждаются различия в подходах к строительству каркасных домов и важность проектной документации.",
+    "fragments": [
+      {
+        "timestamp": "00:03",
+        "highlight": "Приветствие и начало обзора",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=00m03s"
+      },
+      {
+        "timestamp": "00:32",
+        "highlight": "Обсуждение использования шестиметровой доски",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=00m32s"
+      },
+      {
+        "timestamp": "01:16",
+        "highlight": "Встреча с заказчиком на объекте",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=01m16s"
+      },
+      {
+        "timestamp": "02:30",
+        "highlight": "Обсуждение крепления балок и использования чёрных саморезов",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=02m30s"
+      },
+      {
+        "timestamp": "04:01",
+        "highlight": "Рекомендации по усилению крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=04m01s"
+      },
+      {
+        "timestamp": "05:34",
+        "highlight": "Обсуждение отсутствия проекта каркаса",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=05m34s"
+      },
+      {
+        "timestamp": "06:22",
+        "highlight": "Обсуждение ригеля и его крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=06m22s"
+      },
+      {
+        "timestamp": "07:37",
+        "highlight": "Обсуждение укосин и их крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=07m37s"
+      },
+      {
+        "timestamp": "09:53",
+        "highlight": "Рекомендации по обшивке OSB",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=09m53s"
+      },
+      {
+        "timestamp": "11:28",
+        "highlight": "Обсуждение чёрных саморезов и их недостатков",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=11m28s"
+      },
+      {
+        "timestamp": "12:56",
+        "highlight": "Обсуждение обшивки и её крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=12m56s"
+      },
+      {
+        "timestamp": "14:42",
+        "highlight": "Обсуждение контробрешётки и гидроизоляции",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=14m42s"
+      },
+      {
+        "timestamp": "16:09",
+        "highlight": "Обсуждение крепления стропил и конька",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=16m09s"
+      },
+      {
+        "timestamp": "17:49",
+        "highlight": "Обсуждение антисептирования деревянных конструкций",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=17m49s"
+      },
+      {
+        "timestamp": "18:30",
+        "highlight": "Обсуждение различий в подходах к строительству каркасных домов",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=18m30s"
+      },
+      {
+        "timestamp": "19:23",
+        "highlight": "Обсуждение удобства сборки каркаса",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=19m23s"
+      },
+      {
+        "timestamp": "20:23",
+        "highlight": "Обсуждение использования бруса в каркасном строительстве",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=20m23s"
+      },
+      {
+        "timestamp": "21:58",
+        "highlight": "Обсуждение крепления стоек к нижней обвязке",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=21m58s"
+      },
+      {
+        "timestamp": "22:50",
+        "highlight": "Обсуждение запиливания стоек и обвязки",
+        "youtube_url": "https://www.youtube.com/watch?v=Kr42DuhsAOA_20250429_212445#t=22m50s"
+      }
+    ]
+  }
+]
+```

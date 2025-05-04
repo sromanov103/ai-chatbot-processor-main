@@ -1,0 +1,213 @@
+```json
+[
+  {
+    "topic": "Обзор дома-бани",
+    "keywords": [
+      "дом-баня",
+      "Московская область",
+      "строительство",
+      "отделка",
+      "инженерные сети"
+    ],
+    "summary": "Обзор почти полностью построенного дома-бани площадью 120 кв. м в Московской области с отделкой и инженерными сетями.",
+    "text": "Видео представляет собой обзор дома-бани площадью 120 кв. м в Московской области, который почти полностью построен и имеет отделку и инженерные сети. Показаны фундамент, отделка цоколя, фасад, окна, двери, лестницы, внутренняя отделка, санузел, сауна и балкон на втором этаже. Рассказывается о материалах и технологиях, используемых при строительстве и отделке дома.",
+    "fragments": [
+      {
+        "timestamp": "00:02",
+        "highlight": "дом-баня",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=00m02s"
+      },
+      {
+        "timestamp": "00:05",
+        "highlight": "московская область",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=00m05s"
+      },
+      {
+        "timestamp": "00:06",
+        "highlight": "обзор почти полностью построенный дом с отделкой с инженер кай со всеми делами",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=00m06s"
+      },
+      {
+        "timestamp": "00:29",
+        "highlight": "такая высота цоколя обусловлено перепада высоты утеса",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=00m29s"
+      },
+      {
+        "timestamp": "01:01",
+        "highlight": "расскажи про пирог материал",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=01m01s"
+      },
+      {
+        "timestamp": "01:19",
+        "highlight": "aquapanel",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=01m19s"
+      },
+      {
+        "timestamp": "01:45",
+        "highlight": "вентиляционные решетки",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=01m45s"
+      },
+      {
+        "timestamp": "02:09",
+        "highlight": "подпольное пространство должно вентилироваться",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=02m09s"
+      },
+      {
+        "timestamp": "02:21",
+        "highlight": "лестницы на металлокаркасе",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=02m21s"
+      },
+      {
+        "timestamp": "02:47",
+        "highlight": "древесно-полимерный композит",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=02m47s"
+      },
+      {
+        "timestamp": "04:58",
+        "highlight": "лестница завтра 1900 на моем вебинаре",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=04m58s"
+      },
+      {
+        "timestamp": "05:04",
+        "highlight": "клееный брус",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=05m04s"
+      },
+      {
+        "timestamp": "05:20",
+        "highlight": "весь крепеж скрыт мебельными такими колпачками",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=05m20s"
+      },
+      {
+        "timestamp": "05:48",
+        "highlight": "потолок покрыт чем это сайдинг",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=05m48s"
+      },
+      {
+        "timestamp": "06:25",
+        "highlight": "скрытый перфорации",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=06m25s"
+      },
+      {
+        "timestamp": "06:46",
+        "highlight": "цокольное перекрытие деревянном",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=06m46s"
+      },
+      {
+        "timestamp": "07:07",
+        "highlight": "инженерные сети выполнялись подрядчиками",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=07m07s"
+      },
+      {
+        "timestamp": "07:29",
+        "highlight": "имитация бруса крашеная на заводе",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=07m29s"
+      },
+      {
+        "timestamp": "07:54",
+        "highlight": "всё какие-то щели хоть какое-то образуется",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=07m54s"
+      },
+      {
+        "timestamp": "08:01",
+        "highlight": "на полу ламинат кварцвиниловая",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=08m01s"
+      },
+      {
+        "timestamp": "08:16",
+        "highlight": "камин тоже устанавливаю подрядчики",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=08m16s"
+      },
+      {
+        "timestamp": "08:28",
+        "highlight": "весь сан-узел в пароизоляции",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=08m28s"
+      },
+      {
+        "timestamp": "09:01",
+        "highlight": "про вент зазор внутри помещения",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=09m01s"
+      },
+      {
+        "timestamp": "09:46",
+        "highlight": "инженерные сети",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=09m46s"
+      },
+      {
+        "timestamp": "10:01",
+        "highlight": "внутренних стенах пароизоляции нету",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=10m01s"
+      },
+      {
+        "timestamp": "10:42",
+        "highlight": "внутри помещения а воздушный зазор",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=10m42s"
+      },
+      {
+        "timestamp": "10:50",
+        "highlight": "лестница для данного дома она не супер комфортно",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=10m50s"
+      },
+      {
+        "timestamp": "11:11",
+        "highlight": "я противник балконов загородном доме",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=11m11s"
+      },
+      {
+        "timestamp": "11:45",
+        "highlight": "осадки косые могут падать на пол собираться здесь снег дождь",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=11m45s"
+      },
+      {
+        "timestamp": "12:19",
+        "highlight": "водоотведении каким образом введение здесь произведена",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=12m19s"
+      },
+      {
+        "timestamp": "13:13",
+        "highlight": "через капельник она капает вниз",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=13m13s"
+      },
+      {
+        "timestamp": "13:38",
+        "highlight": "необходимо друзья атрибут сверху вниз",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=13m38s"
+      },
+      {
+        "timestamp": "13:54",
+        "highlight": "второй этаж отделка ещё не выполнена полностью",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=13m54s"
+      },
+      {
+        "timestamp": "14:14",
+        "highlight": "холодный чердак",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=14m14s"
+      },
+      {
+        "timestamp": "14:46",
+        "highlight": "во втором этаже отделка ещё не выполнена полностью",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=14m46s"
+      },
+      {
+        "timestamp": "15:57",
+        "highlight": "монтировать такие вещи должны те ребята которые делают это каждый день",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=15m57s"
+      },
+      {
+        "timestamp": "16:11",
+        "highlight": "окна то кто снова наш",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=16m11s"
+      },
+      {
+        "timestamp": "16:23",
+        "highlight": "подрядчики есть они у них прям свои монтажники",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=16m23s"
+      },
+      {
+        "timestamp": "16:57",
+        "highlight": "компания должна нести ответственность",
+        "youtube_url": "https://www.youtube.com/watch?v=lKiz9Y3O5HI_20250429_195615#t=16m57s"
+      }
+    ]
+  }
+]
+```

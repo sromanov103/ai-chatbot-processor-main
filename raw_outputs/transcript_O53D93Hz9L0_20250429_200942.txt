@@ -1,0 +1,206 @@
+```json
+[
+  {
+    "topic": "Строительство каркасного дома 240 м² с плоской крышей",
+    "keywords": [
+      "каркасный дом",
+      "плоская крыша",
+      "современная архитектура",
+      "терраса",
+      "панорамные окна",
+      "фундамент",
+      "утепление",
+      "планировка"
+    ],
+    "summary": "Строительство современного каркасного дома площадью 240 м² с плоской крышей, панорамными окнами, террасой и балконом. Фундамент плитный с ребрами жесткости, утепление стен 200 мм, кровли 300 мм. Стоимость дома в теплом контуре 5 370 000 рублей.",
+    "text": "В рамках проекта \"Вложили живи\" мы строим каркасный дом на участке в Ленинградской области, вблизи города Ломоносов. Дом площадью 240 квадратных метров с современной архитектурой и плоской крышей. Фундамент - железобетонная плита с ребрами жесткости, терраса на винтовых сваях. Каркас дома выполнен из сухой строганной доски, утепление стен 200 мм (150 мм внутри каркаса и 50 мм перекрестное утепление), кровли - 300 мм. Особое внимание уделено пароизоляции и ветрозащите. Дом имеет удобную планировку с большими панорамными окнами, террасой, балконом и четырьмя комнатами на втором этаже. Стоимость дома в теплом контуре составляет 5 370 000 рублей.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Начало строительства каркасного дома 240 кв.м с плоской крышей",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m00s"
+      },
+      {
+        "timestamp": "00:03",
+        "highlight": "Современная архитектура проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m03s"
+      },
+      {
+        "timestamp": "00:13",
+        "highlight": "Приветствие от Александра, автора проекта",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m13s"
+      },
+      {
+        "timestamp": "00:21",
+        "highlight": "Описание участка и инфраструктуры",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m21s"
+      },
+      {
+        "timestamp": "00:34",
+        "highlight": "Расположение участка в Ленинградской области",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m34s"
+      },
+      {
+        "timestamp": "00:45",
+        "highlight": "Наличие электричества на участке",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m45s"
+      },
+      {
+        "timestamp": "00:48",
+        "highlight": "История выбора фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=00m48s"
+      },
+      {
+        "timestamp": "01:00",
+        "highlight": "Переход на каркасный дом вместо газобетона",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=01m00s"
+      },
+      {
+        "timestamp": "01:03",
+        "highlight": "Решение строить каркасный дом зимой",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=01m03s"
+      },
+      {
+        "timestamp": "01:05",
+        "highlight": "Дом для постоянного проживания",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=01m05s"
+      },
+      {
+        "timestamp": "01:12",
+        "highlight": "Архитектурные особенности дома",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=01m12s"
+      },
+      {
+        "timestamp": "01:27",
+        "highlight": "Обзор конструкции дома",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=01m27s"
+      },
+      {
+        "timestamp": "02:07",
+        "highlight": "Демонстрация фундамента и винтовых свай",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=02m07s"
+      },
+      {
+        "timestamp": "03:17",
+        "highlight": "Использование клееного бруса в конструкции",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=03m17s"
+      },
+      {
+        "timestamp": "04:20",
+        "highlight": "Описание межэтажных перекрытий",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=04m20s"
+      },
+      {
+        "timestamp": "05:01",
+        "highlight": "Обсуждение каркаса и нагрузок",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=05m01s"
+      },
+      {
+        "timestamp": "05:11",
+        "highlight": "Проектирование и выбор материалов для перекрытий",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=05m11s"
+      },
+      {
+        "timestamp": "05:45",
+        "highlight": "Планировка первого этажа",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=05m45s"
+      },
+      {
+        "timestamp": "06:00",
+        "highlight": "Описание террасы",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=06m00s"
+      },
+      {
+        "timestamp": "06:17",
+        "highlight": "Использование доски камерной сушки для террасы",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=06m17s"
+      },
+      {
+        "timestamp": "06:28",
+        "highlight": "Каркас дома из сухой строганной доски",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=06m28s"
+      },
+      {
+        "timestamp": "06:31",
+        "highlight": "Утепление стен и перекрытий",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=06m31s"
+      },
+      {
+        "timestamp": "06:44",
+        "highlight": "Перекрестное утепление и ветрозащита",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=06m44s"
+      },
+      {
+        "timestamp": "07:01",
+        "highlight": "Использование ветрозащитных плит",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=07m01s"
+      },
+      {
+        "timestamp": "07:09",
+        "highlight": "Закладные для сантехники",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=07m09s"
+      },
+      {
+        "timestamp": "07:22",
+        "highlight": "Пароизоляция и синие закладные",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=07m22s"
+      },
+      {
+        "timestamp": "07:48",
+        "highlight": "Планировка второго этажа",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=07m48s"
+      },
+      {
+        "timestamp": "08:00",
+        "highlight": "Лестница на второй этаж",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=08m00s"
+      },
+      {
+        "timestamp": "08:17",
+        "highlight": "Большая гостиная и кухня",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=08m17s"
+      },
+      {
+        "timestamp": "08:45",
+        "highlight": "Терраса как летняя столовая",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=08m45s"
+      },
+      {
+        "timestamp": "09:01",
+        "highlight": "Планы по отделке и установке окон",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=09m01s"
+      },
+      {
+        "timestamp": "09:11",
+        "highlight": "Обсуждение стоимости окон",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=09m11s"
+      },
+      {
+        "timestamp": "09:30",
+        "highlight": "Отделка дома и утепление",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=09m30s"
+      },
+      {
+        "timestamp": "09:44",
+        "highlight": "Продажа дома в теплом контуре",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=09m44s"
+      },
+      {
+        "timestamp": "09:53",
+        "highlight": "Цена дома и расчет за квадратный метр",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=09m53s"
+      },
+      {
+        "timestamp": "10:00",
+        "highlight": "Тенденции роста цен на загородную недвижимость",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=10m00s"
+      },
+      {
+        "timestamp": "10:12",
+        "highlight": "Контактная информация для покупки дома",
+        "youtube_url": "https://www.youtube.com/watch?v=O53D93Hz9L0_20250429_200942#t=10m12s"
+      }
+    ]
+  }
+]
+```

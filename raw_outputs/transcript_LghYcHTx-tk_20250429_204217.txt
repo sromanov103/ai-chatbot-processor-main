@@ -1,0 +1,216 @@
+```json
+[
+  {
+    "topic": "Строительство фахверкового дома",
+    "keywords": [
+      "фахверк",
+      "стройка",
+      "проект",
+      "кровля",
+      "доставка",
+      "шпильки",
+      "цвет",
+      "комплект"
+    ],
+    "summary": "Александр рассказывает о ходе строительства фахверкового дома размером 64 на 64 метра, включая выбор кровельного материала, особенности сборки и доставки домокомплекта.",
+    "text": "В этом видео Александр делится ходом строительства фахверкового дома. Он объясняет, почему произошла задержка срока строительства (из-за замены кровельного материала на цементно-песчаную черепицу) и как это повлияло на процесс. Подробно описаны этапы монтажа кровли, включая гидроизоляцию и обрешетку. Также Александр рассказывает о различных проектах домов и приглашает к сотрудничеству строительные компании. Обсуждаются вопросы доставки домокомплекта в регионы, особенности использования шпилек в конструкции и их влияние на теплопотери, а также выбор цвета для отделки стен.",
+    "fragments": [
+      {
+        "timestamp": "00:03",
+        "highlight": "Александр приветствует зрителей и начинает рассказ о строительстве фахверкового дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=00m03s"
+      },
+      {
+        "timestamp": "00:17",
+        "highlight": "Объясняется причина задержки в строительстве на два дня — замена кровельного материала.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=00m17s"
+      },
+      {
+        "timestamp": "00:45",
+        "highlight": "Обсуждается вес кровельного материала и сложности его подъема на крышу.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=00m45s"
+      },
+      {
+        "timestamp": "01:01",
+        "highlight": "Упоминается о планах строить похожую баню в Твери с использованием мягкой черепицы.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=01m01s"
+      },
+      {
+        "timestamp": "01:18",
+        "highlight": "Рассказывается о небольшой бригаде мастеров, работавших над домом.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=01m18s"
+      },
+      {
+        "timestamp": "01:37",
+        "highlight": "Александр отмечает, что будет снимать видеосюжеты о строительстве и призывает подписаться на Инстаграм.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=01m37s"
+      },
+      {
+        "timestamp": "02:18",
+        "highlight": "Музыкальная пауза.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=02m18s"
+      },
+      {
+        "timestamp": "07:14",
+        "highlight": "Александр приглашает зрителей ближе рассмотреть дом и рассказывает о проделанной работе.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=07m14s"
+      },
+      {
+        "timestamp": "07:29",
+        "highlight": "Описание укладки цементно-песчаной черепицы и ее преимуществ.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=07m29s"
+      },
+      {
+        "timestamp": "07:45",
+        "highlight": "Александр рассказывает о возможных альтернативах кровельного материала.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=07m45s"
+      },
+      {
+        "timestamp": "07:52",
+        "highlight": "Описание доборных элементов кровли и защиты от птиц и насекомых.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=07m52s"
+      },
+      {
+        "timestamp": "08:10",
+        "highlight": "Рассказ о лобовых досках и обшивке дома.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=08m10s"
+      },
+      {
+        "timestamp": "08:19",
+        "highlight": "Информация о фронтонах и их зашивке.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=08m19s"
+      },
+      {
+        "timestamp": "08:25",
+        "highlight": "Обсуждается покраска маслом и его использование.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=08m25s"
+      },
+      {
+        "timestamp": "08:48",
+        "highlight": "Рассказ о зашивке свесов кровли и покраске в белый цвет.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=08m48s"
+      },
+      {
+        "timestamp": "08:59",
+        "highlight": "Описание замены стеклопакетов и разбор конструкции стены.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=08m59s"
+      },
+      {
+        "timestamp": "09:31",
+        "highlight": "Александр отвечает на вопросы о размерах дома и рассказывает о других проектах.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=09m31s"
+      },
+      {
+        "timestamp": "09:56",
+        "highlight": "Упоминание о проекте бани с террасой в Твери.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=09m56s"
+      },
+      {
+        "timestamp": "10:12",
+        "highlight": "Обсуждение увеличенных проектов с дополнительными спальнями.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=10m12s"
+      },
+      {
+        "timestamp": "10:20",
+        "highlight": "Александр рассказывает о предстоящем строительстве дома в Московской области.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=10m20s"
+      },
+      {
+        "timestamp": "10:34",
+        "highlight": "Приглашение посмотреть другие видео о проектах и высылка эскизов по запросу.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=10m34s"
+      },
+      {
+        "timestamp": "10:48",
+        "highlight": "Александр приглашает строительные компании к сотрудничеству и предлагает размещать проекты на своих ресурсах.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=10m48s"
+      },
+      {
+        "timestamp": "11:07",
+        "highlight": "Демонстрация фронтона и его вентиляции.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=11m07s"
+      },
+      {
+        "timestamp": "11:20",
+        "highlight": "Александр рассказывает о покрытии планкена маслом и выборе цвета.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=11m20s"
+      },
+      {
+        "timestamp": "11:36",
+        "highlight": "Приглашение зрителей высказать свое мнение о цвете отделки.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=11m36s"
+      },
+      {
+        "timestamp": "11:55",
+        "highlight": "Обсуждение доставки домокомплекта в регионы.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=11m55s"
+      },
+      {
+        "timestamp": "12:11",
+        "highlight": "Александр объясняет, как минимизировать стоимость доставки, заказывая минимальный комплект.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=12m11s"
+      },
+      {
+        "timestamp": "12:34",
+        "highlight": "Обсуждение вхождения в комплект винтовых свай и их использования.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=12m34s"
+      },
+      {
+        "timestamp": "12:40",
+        "highlight": "Описание клееных балок и их преимуществ.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=12m40s"
+      },
+      {
+        "timestamp": "12:57",
+        "highlight": "Александр рассказывает о шпильках и их роли в конструкции.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=12m57s"
+      },
+      {
+        "timestamp": "13:02",
+        "highlight": "Объяснение, как скрыть шпильки и сделать крепеж незаметным.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=13m02s"
+      },
+      {
+        "timestamp": "13:17",
+        "highlight": "Обсуждение альтернатив шпилькам, таких как сантехнические болты.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=13m17s"
+      },
+      {
+        "timestamp": "13:28",
+        "highlight": "Сравнение шпилек и сантехнических болтов по надежности.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=13m28s"
+      },
+      {
+        "timestamp": "13:37",
+        "highlight": "Александр демонстрирует шуруп и сравнивает его со шпилькой.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=13m37s"
+      },
+      {
+        "timestamp": "13:50",
+        "highlight": "Обсуждение преимуществ шпилек перед сантехническими болтами.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=13m50s"
+      },
+      {
+        "timestamp": "14:00",
+        "highlight": "Александр рассказывает о стоимости доставки и ее зависимости от комплектации.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=14m00s"
+      },
+      {
+        "timestamp": "14:26",
+        "highlight": "Объяснение, как формируется стоимость доставки и как она может варьироваться.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=14m26s"
+      },
+      {
+        "timestamp": "14:46",
+        "highlight": "Александр завершает рассказ о строительстве и приглашает на следующий этап — отделку и утепление.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=14m46s"
+      },
+      {
+        "timestamp": "14:59",
+        "highlight": "Александр прощается с зрителями и приглашает к просмотру следующих видео.",
+        "youtube_url": "https://www.youtube.com/watch?v=LghYcHTx-tk_20250429_204217#t=14m59s"
+      }
+    ]
+  }
+]
+```

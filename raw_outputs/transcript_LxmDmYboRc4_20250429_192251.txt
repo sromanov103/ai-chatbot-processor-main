@@ -1,0 +1,96 @@
+```json
+[
+  {
+    "topic": "Экскурсия по дому Ольги",
+    "keywords": [
+      "дом из газобетона",
+      "планировка дома",
+      "отделка",
+      "отопление",
+      "вентиляция",
+      "бизнес Ольги",
+      "переезд в дом",
+      "подарки Насте"
+    ],
+    "summary": "Ольга и ее семья переехали в новый дом из газобетона, который они строили параллельно с каркасным домом. В видео они рассказывают о планировке, отделке, отоплении, вентиляции и о своем новом бизнесе по производству мебели.",
+    "text": "Дом Ольги построен из газобетона толщиной 400 мм, с перегородками 100 мм. В доме есть два санузла, три спальни, большая кухня-гостиная, котельная с электрическим котлом и планируется газовое отопление. В доме установлен камин, который используется для обогрева и создания уюта. Ольга и ее муж Андрей решили заняться производством мебели, открыв магазин в Санкт-Петербурге. Они также поделились опытом строительства дома, выбора материалов и планировки.",
+    "fragments": [
+      {
+        "timestamp": "00:02",
+        "highlight": "Как живут сотрудники компании Строй Живи",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=00m02s"
+      },
+      {
+        "timestamp": "00:27",
+        "highlight": "Ольга эксперт по загородному строительству",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=00m27s"
+      },
+      {
+        "timestamp": "01:37",
+        "highlight": "Использование камина для отопления",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=01m37s"
+      },
+      {
+        "timestamp": "02:22",
+        "highlight": "Планировка зоны гостиной и кухни",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=02m22s"
+      },
+      {
+        "timestamp": "03:31",
+        "highlight": "Ольга и ее муж начинают свой бизнес по производству мебели",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=03m31s"
+      },
+      {
+        "timestamp": "05:11",
+        "highlight": "Планы по газификации дома",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=05m11s"
+      },
+      {
+        "timestamp": "07:38",
+        "highlight": "Расходы на отопление дома зимой",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=07m38s"
+      },
+      {
+        "timestamp": "11:24",
+        "highlight": "Отделка комнаты Насти к 1 сентября",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=11m24s"
+      },
+      {
+        "timestamp": "13:20",
+        "highlight": "Планировка спальни родителей",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=13m20s"
+      },
+      {
+        "timestamp": "14:54",
+        "highlight": "Особенности отопления в доме",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=14m54s"
+      },
+      {
+        "timestamp": "16:20",
+        "highlight": "Выбор технологии строительства дома",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=16m20s"
+      },
+      {
+        "timestamp": "22:56",
+        "highlight": "Установка камина и его роль в доме",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=22m56s"
+      },
+      {
+        "timestamp": "24:46",
+        "highlight": "Планы по отделке фасада клинкерной плиткой",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=24m46s"
+      },
+      {
+        "timestamp": "26:55",
+        "highlight": "Планы по утеплению дома и отделке отмостки",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=26m55s"
+      },
+      {
+        "timestamp": "29:08",
+        "highlight": "Подарок Насте - кресло-качели",
+        "youtube_url": "https://www.youtube.com/watch?v=LxmDmYboRc4_20250429_192251#t=29m08s"
+      }
+    ]
+  }
+]
+```

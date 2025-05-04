@@ -1,0 +1,106 @@
+```json
+[
+  {
+    "topic": "Монтаж коммуникаций в фундаменте",
+    "keywords": [
+      "канализация",
+      "водопровод",
+      "санузел",
+      "кухня",
+      "стяжка",
+      "песок",
+      "утепление",
+      "отмостка"
+    ],
+    "summary": "В видео показан процесс монтажа канализационных и водопроводных труб внутри фундамента, засыпка песком, укладка армирующей сетки и заливка стяжки.",
+    "text": "После установки фундамента приступают к разводке коммуникаций внутри него. В ленточном фундаменте высотой 250 мм прокладывают канализационные и водопроводные трубы. Канализационные трубы монтируются с уклоном: 3 см на метр для труб диаметром 50 мм и 2 см для 110 мм. Водопроводные трубы также укладываются с уклоном, утепляются и крепятся к бетонному основанию шпильками. После прокладки коммуникаций производят засыпку песком, укладку армирующей сетки и заливку стяжки толщиной 10 см. В дальнейшем фундамент будет утеплен, сделана гидроизоляция и отмостка.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Начало работы с фундаментом и разметка кабинки",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=00m00s"
+      },
+      {
+        "timestamp": "00:23",
+        "highlight": "Приветствие и вступление",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=00m23s"
+      },
+      {
+        "timestamp": "00:51",
+        "highlight": "Начало разводки канализации",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=00m51s"
+      },
+      {
+        "timestamp": "02:06",
+        "highlight": "Монтаж канализационных труб",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=02m06s"
+      },
+      {
+        "timestamp": "04:17",
+        "highlight": "Формирование уклона канализационных труб",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=04m17s"
+      },
+      {
+        "timestamp": "05:12",
+        "highlight": "Завершение монтажа канализации",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=05m12s"
+      },
+      {
+        "timestamp": "07:48",
+        "highlight": "Начало монтажа водопровода",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=07m48s"
+      },
+      {
+        "timestamp": "08:55",
+        "highlight": "Завершение монтажа водопровода",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=08m55s"
+      },
+      {
+        "timestamp": "10:33",
+        "highlight": "Засыпка песком и подготовка к стяжке",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=10m33s"
+      },
+      {
+        "timestamp": "11:16",
+        "highlight": "Укладка армирующей сетки",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=11m16s"
+      },
+      {
+        "timestamp": "13:16",
+        "highlight": "Заливка стяжки",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=13m16s"
+      },
+      {
+        "timestamp": "15:49",
+        "highlight": "Завершение работ по фундаменту",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=15m49s"
+      },
+      {
+        "timestamp": "19:53",
+        "highlight": "Планы на дальнейшие работы по фундаменту",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=19m53s"
+      },
+      {
+        "timestamp": "22:57",
+        "highlight": "Вручение документов заказчикам",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=22m57s"
+      },
+      {
+        "timestamp": "27:20",
+        "highlight": "Обсуждение дальнейших планов по строительству",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=27m20s"
+      },
+      {
+        "timestamp": "28:41",
+        "highlight": "История выбора компании для строительства фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=28m41s"
+      },
+      {
+        "timestamp": "30:46",
+        "highlight": "Благодарность за работу и планы на сотрудничество",
+        "youtube_url": "https://www.youtube.com/watch?v=Oeog9fIIMX4_20250429_210346#t=30m46s"
+      }
+    ]
+  }
+]
+```

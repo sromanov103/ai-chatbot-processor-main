@@ -1,0 +1,266 @@
+```json
+[
+  {
+    "topic": "Проблемы при строительстве фахверкового дома",
+    "keywords": [
+      "фахверк",
+      "качество сборки",
+      "клееный брус",
+      "строительные ошибки",
+      "перерасход бюджета",
+      "плохая работа подрядчиков",
+      "выбор поставщика",
+      "экономия средств"
+    ],
+    "summary": "Заказчик столкнулся с многочисленными проблемами при строительстве фахверкового дома из-за низкого качества клееного бруса и недобросовестной работы подрядчиков, что привело к перерасходу бюджета и времени.",
+    "text": "Заказчик решил построить фахверковый дом своими силами, чтобы сэкономить на услугах подрядчиков, которые запрашивали нереальные суммы. Однако он столкнулся с множеством проблем: низкое качество клееного бруса, плохая сборка каркаса, необходимость доработки узлов и шлифовки поверхностей. Несмотря на экономию на материалах, заказчик понес дополнительные расходы на аренду крана и оплату труда рабочих, которые помогали собирать каркас. В итоге, он не сэкономил, а потратил столько же, сколько заплатил бы за качественную работу, но получил дом с многочисленными недостатками.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Фахверк облагали нереальные суммы",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=00m00s"
+      },
+      {
+        "timestamp": "00:16",
+        "highlight": "Качество сборки не супер",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=00m16s"
+      },
+      {
+        "timestamp": "00:24",
+        "highlight": "Было две струбцины и все",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=00m24s"
+      },
+      {
+        "timestamp": "00:46",
+        "highlight": "Разоблачение компании, которая берет предоплаты и кидает заказчиков",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=00m46s"
+      },
+      {
+        "timestamp": "01:27",
+        "highlight": "Два-три человека недовольны компанией",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=01m27s"
+      },
+      {
+        "timestamp": "02:00",
+        "highlight": "Можно ошибиться при выборе поставщика клееного бруса",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=02m00s"
+      },
+      {
+        "timestamp": "02:24",
+        "highlight": "За 30 тысяч рублей за куб можно получить отвратительного качества клееный брус",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=02m24s"
+      },
+      {
+        "timestamp": "03:01",
+        "highlight": "Все фирмы запрашивали нереальные суммы",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=03m01s"
+      },
+      {
+        "timestamp": "03:56",
+        "highlight": "Решили делать поэтапно своими силами",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=03m56s"
+      },
+      {
+        "timestamp": "04:41",
+        "highlight": "Возникли вопросы с доставкой бетона",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=04m41s"
+      },
+      {
+        "timestamp": "05:16",
+        "highlight": "Проект разрабатывали на заводе",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=05m16s"
+      },
+      {
+        "timestamp": "05:47",
+        "highlight": "Привезли каркас, сборка была очень длительной",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=05m47s"
+      },
+      {
+        "timestamp": "06:02",
+        "highlight": "Приходилось подгонять узлы",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=06m02s"
+      },
+      {
+        "timestamp": "06:17",
+        "highlight": "Качество склейки бруса",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=06m17s"
+      },
+      {
+        "timestamp": "06:42",
+        "highlight": "Выборка пазов под окна была отдана",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=06m42s"
+      },
+      {
+        "timestamp": "07:05",
+        "highlight": "Инструмент для выборки был тупой",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=07m05s"
+      },
+      {
+        "timestamp": "07:29",
+        "highlight": "Склейка бруса некачественная",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=07m29s"
+      },
+      {
+        "timestamp": "07:54",
+        "highlight": "Гайки куплены в Леруа Мерлен",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=07m54s"
+      },
+      {
+        "timestamp": "08:26",
+        "highlight": "Гайки после монтажа выглядят плохо",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=08m26s"
+      },
+      {
+        "timestamp": "08:55",
+        "highlight": "Расклейка бруса",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=08m55s"
+      },
+      {
+        "timestamp": "09:32",
+        "highlight": "Обработка каркаса антисептиком",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=09m32s"
+      },
+      {
+        "timestamp": "09:56",
+        "highlight": "Стропильная система",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=09m56s"
+      },
+      {
+        "timestamp": "10:15",
+        "highlight": "Завод выдержал 30 тысяч",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=10m15s"
+      },
+      {
+        "timestamp": "10:44",
+        "highlight": "Монтаж фальцевой кровли",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=10m44s"
+      },
+      {
+        "timestamp": "11:01",
+        "highlight": "Неправильно установлен оклад",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=11m01s"
+      },
+      {
+        "timestamp": "11:19",
+        "highlight": "Недостатки в сборке",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=11m19s"
+      },
+      {
+        "timestamp": "11:43",
+        "highlight": "Трещины в брусе",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=11m43s"
+      },
+      {
+        "timestamp": "12:02",
+        "highlight": "Проемы под окна",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=12m02s"
+      },
+      {
+        "timestamp": "12:32",
+        "highlight": "Запилы бензопилой",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=12m32s"
+      },
+      {
+        "timestamp": "12:48",
+        "highlight": "Дом не закреплен к фундаменту",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=12m48s"
+      },
+      {
+        "timestamp": "13:00",
+        "highlight": "Крепление бруса к фундаменту",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=13m00s"
+      },
+      {
+        "timestamp": "13:27",
+        "highlight": "Остекление",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=13m27s"
+      },
+      {
+        "timestamp": "13:52",
+        "highlight": "Формула стеклопакета",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=13m52s"
+      },
+      {
+        "timestamp": "14:31",
+        "highlight": "Оценка стекла больше 4 квадратных метров",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=14m31s"
+      },
+      {
+        "timestamp": "15:00",
+        "highlight": "Перемычки для стекла",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=15m00s"
+      },
+      {
+        "timestamp": "15:22",
+        "highlight": "Перекрестное утепление",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=15m22s"
+      },
+      {
+        "timestamp": "15:44",
+        "highlight": "Теплые полы",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=15m44s"
+      },
+      {
+        "timestamp": "16:00",
+        "highlight": "Цементное молочко",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=16m00s"
+      },
+      {
+        "timestamp": "16:14",
+        "highlight": "Нивелирование перепада",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=16m14s"
+      },
+      {
+        "timestamp": "16:27",
+        "highlight": "Зимняя выемка",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=16m27s"
+      },
+      {
+        "timestamp": "16:39",
+        "highlight": "Стекло разной толщины",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=16m39s"
+      },
+      {
+        "timestamp": "17:03",
+        "highlight": "Звукоизоляция",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=17m03s"
+      },
+      {
+        "timestamp": "17:27",
+        "highlight": "Экономия на брусе",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=17m27s"
+      },
+      {
+        "timestamp": "17:55",
+        "highlight": "Расходы на кран",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=17m55s"
+      },
+      {
+        "timestamp": "18:15",
+        "highlight": "Расходы на рабочих",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=18m15s"
+      },
+      {
+        "timestamp": "18:30",
+        "highlight": "Итоговая экономия",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=18m30s"
+      },
+      {
+        "timestamp": "18:41",
+        "highlight": "Отказ от переделки каркаса",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=18m41s"
+      },
+      {
+        "timestamp": "18:55",
+        "highlight": "Предложение по остеклению",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=18m55s"
+      },
+      {
+        "timestamp": "19:00",
+        "highlight": "Помощь в закупке строительных материалов",
+        "youtube_url": "https://www.youtube.com/watch?v=lmy4t_3cxHI_20250429_204537#t=19m00s"
+      }
+    ]
+  }
+]
+```

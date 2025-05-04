@@ -1,0 +1,182 @@
+```json
+[
+  {
+    "topic": "Начало строительства каркасного дома",
+    "keywords": [
+      "строительство",
+      "каркасный дом",
+      "домокомплект",
+      "винтовой фундамент",
+      "проект \"Строй и живи\"",
+      "Ленинградская область",
+      "Синяя"
+    ],
+    "summary": "В Ленинградской области начинается сборка домокомплекта каркасного дома размером 9х10 метров, доставленного манипулятором. Проект реализуется на участке с ранее установленным винтовым фундаментом.",
+    "text": "В населенном пункте Синяя Ленинградской области стартовал проект по сборке каркасного дома размером 9х10 метров. Домокомплект доставлен манипулятором, а на участке уже установлен винтовой фундамент из 37 свай диаметром 108 мм и длиной 2,5 метра. Сложный грунт с камнями потребовал использования специальной техники для монтажа фундамента. Заказчик тщательно подготовил строительную площадку, обеспечив порядок и безопасность работ. В команде строителей присутствует строительный турист Игорь из Украины, приехавший получить опыт в строительстве каркасных домов.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Приветствие и начало проекта \"Строй и живи\"",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=00m00s"
+      },
+      {
+        "timestamp": "00:08",
+        "highlight": "Начало строительства в Ленинградской области",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=00m08s"
+      },
+      {
+        "timestamp": "00:19",
+        "highlight": "Доставка домокомплекта манипулятором",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=00m19s"
+      },
+      {
+        "timestamp": "00:31",
+        "highlight": "Монтаж винтового фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=00m31s"
+      },
+      {
+        "timestamp": "00:55",
+        "highlight": "Подготовка строительной площадки",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=00m55s"
+      },
+      {
+        "timestamp": "01:06",
+        "highlight": "Присутствие строительного туриста Игоря",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=01m06s"
+      }
+    ]
+  },
+  {
+    "topic": "Строительство каркасного дома: процесс и детали",
+    "keywords": [
+      "каркасный дом",
+      "строительство",
+      "обзор",
+      "утепление",
+      "вермикулит",
+      "металлочерепица",
+      "чердак",
+      "план дома"
+    ],
+    "summary": "Обзор процесса строительства каркасного дома с подробным описанием конструкции, утепления, кровли и планировки. Особое внимание уделено применению вермикулита в качестве утеплителя и преимуществам такого решения.",
+    "text": "Проводится обзор процесса строительства каркасного дома, включая конструкцию стен, перекрытий, кровли и утепления. Особое внимание уделено применению вермикулита в качестве утеплителя, который не требует использования мембран и обеспечивает высокую теплоизоляцию. Описывается устройство чердака, кровли из металлочерепицы и планировка дома с двумя спальнями, кухней-гостиной, санузлом и верандой. Заказчик делится своими впечатлениями и опытом сотрудничества с компанией \"Свой фундамент\".",
+    "fragments": [
+      {
+        "timestamp": "06:13",
+        "highlight": "Обзор одноэтажного каркасного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=06m13s"
+      },
+      {
+        "timestamp": "06:26",
+        "highlight": "Завершение строительства и монтаж металлочерепицы",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=06m26s"
+      },
+      {
+        "timestamp": "06:41",
+        "highlight": "Участие Игоря в строительстве",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=06m41s"
+      },
+      {
+        "timestamp": "07:05",
+        "highlight": "Рассказ Игоря о его опыте",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=07m05s"
+      },
+      {
+        "timestamp": "09:52",
+        "highlight": "Завершение сборки домокомплекта DKD-03",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=09m52s"
+      },
+      {
+        "timestamp": "10:04",
+        "highlight": "Обзор внутренней планировки дома",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=10m04s"
+      },
+      {
+        "timestamp": "12:37",
+        "highlight": "Описание конструкции каркаса",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=12m37s"
+      },
+      {
+        "timestamp": "14:51",
+        "highlight": "Объяснение устройства черновых полов и утепления",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=14m51s"
+      },
+      {
+        "timestamp": "16:50",
+        "highlight": "Завершение обзора домокомплекта DKD-03",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=16m50s"
+      },
+      {
+        "timestamp": "17:00",
+        "highlight": "Отзыв заказчика Сергея",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=17m00s"
+      },
+      {
+        "timestamp": "17:08",
+        "highlight": "История заказа и впечатления от сотрудничества",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=17m08s"
+      },
+      {
+        "timestamp": "17:36",
+        "highlight": "Принятие решения о строительстве каркасного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=17m36s"
+      },
+      {
+        "timestamp": "18:16",
+        "highlight": "Знакомство с каналом \"Строй и живи\"",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=18m16s"
+      },
+      {
+        "timestamp": "19:30",
+        "highlight": "Разработка плана дома и обращение к компании",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=19m30s"
+      },
+      {
+        "timestamp": "20:28",
+        "highlight": "Заключение договора и оплата",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=20m28s"
+      },
+      {
+        "timestamp": "21:11",
+        "highlight": "Доверие к компании",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=21m11s"
+      },
+      {
+        "timestamp": "21:22",
+        "highlight": "Подробности строительства фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=21m22s"
+      },
+      {
+        "timestamp": "22:42",
+        "highlight": "Выбор фундамента для каркасного дома",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=22m42s"
+      },
+      {
+        "timestamp": "23:05",
+        "highlight": "Конструкция дома и ее преимущества",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=23m05s"
+      },
+      {
+        "timestamp": "23:36",
+        "highlight": "Отзыв о работе компании \"Свой фундамент\"",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=23m36s"
+      },
+      {
+        "timestamp": "24:00",
+        "highlight": "Особенности строительства и возникающие вопросы",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=24m00s"
+      },
+      {
+        "timestamp": "25:04",
+        "highlight": "Советы потенциальным заказчикам",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=25m04s"
+      },
+      {
+        "timestamp": "26:02",
+        "highlight": "Рекомендация работать с компанией \"Свой фундамент\"",
+        "youtube_url": "https://www.youtube.com/watch?v=m7ZgMkLoFng_whisper#t=26m02s"
+      }
+    ]
+  }
+]
+```

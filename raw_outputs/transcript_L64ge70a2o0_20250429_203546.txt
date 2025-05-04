@@ -1,0 +1,128 @@
+```json
+[
+  {
+    "topic": "Строительство фахверкового дома в Ногинске",
+    "keywords": [
+      "фахверковый дом",
+      "клееный брус",
+      "железобетонная плита",
+      "сборка без техники",
+      "второй свет"
+    ],
+    "summary": "Видео посвящено строительству фахверкового дома размером 8,5х6,4 м на железобетонной плите в Ногинске, Московской области. Дом собирается без использования техники, с применением клееного бруса и стеклопакетов, имеет второй свет и разноуровневую крышу.",
+    "text": "В видео представлен процесс строительства фахверкового дома размером 8,5х6,4 м в Ногинске, Московской области. Дом возводится на железобетонной плите с ребрами жесткости, что обеспечивает дополнительную высоту. Сборка дома осуществляется без использования техники, силами трех человек. Конструкция дома включает в себя клееный брус, стеклопакеты и глухие стены, обшитые планкеном. Крыша дома двухскатная, разноуровневая, с возможностью выбора кровельного материала. Внутри дома предусмотрен второй свет, увеличивающий объем помещения и обеспечивающий дополнительное освещение. Отопление планируется конвекторами, полы будут утеплены пенополистиролом и покрыты ламинатом или паркетной доской. Потолок утеплен, стропильная система выполнена из доски 46х196 мм. Завершение строительства планируется в декабре.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Вступление и тема видео",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=00m00s"
+      },
+      {
+        "timestamp": "00:17",
+        "highlight": "Описание объекта и его размеров",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=00m17s"
+      },
+      {
+        "timestamp": "00:35",
+        "highlight": "Особенности фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=00m35s"
+      },
+      {
+        "timestamp": "01:03",
+        "highlight": "Методика сборки дома",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=01m03s"
+      },
+      {
+        "timestamp": "01:26",
+        "highlight": "Качество железобетонной плиты",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=01m26s"
+      },
+      {
+        "timestamp": "01:45",
+        "highlight": "Гидроизоляция фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=01m45s"
+      },
+      {
+        "timestamp": "02:04",
+        "highlight": "Установка нижнего лежня",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=02m04s"
+      },
+      {
+        "timestamp": "02:20",
+        "highlight": "Конструкция стен",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=02m20s"
+      },
+      {
+        "timestamp": "02:45",
+        "highlight": "Отделка планкеном",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=02m45s"
+      },
+      {
+        "timestamp": "03:02",
+        "highlight": "Методика сборки каркаса",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=03m02s"
+      },
+      {
+        "timestamp": "03:34",
+        "highlight": "Установка стеклопакетов",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=03m34s"
+      },
+      {
+        "timestamp": "03:57",
+        "highlight": "Крепление верхнего ригеля",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=03m57s"
+      },
+      {
+        "timestamp": "04:20",
+        "highlight": "Выбор кровельного материала",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=04m20s"
+      },
+      {
+        "timestamp": "04:47",
+        "highlight": "Форма крыши",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=04m47s"
+      },
+      {
+        "timestamp": "05:01",
+        "highlight": "Увеличение размеров дома",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=05m01s"
+      },
+      {
+        "timestamp": "05:10",
+        "highlight": "Второй свет",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=05m10s"
+      },
+      {
+        "timestamp": "05:23",
+        "highlight": "Внутреннее устройство дома",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=05m23s"
+      },
+      {
+        "timestamp": "05:44",
+        "highlight": "Утепление пола",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=05m44s"
+      },
+      {
+        "timestamp": "06:04",
+        "highlight": "Отопление дома",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=06m04s"
+      },
+      {
+        "timestamp": "06:17",
+        "highlight": "Утепление потолка",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=06m17s"
+      },
+      {
+        "timestamp": "06:35",
+        "highlight": "Покраска конструкционных балок",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=06m35s"
+      },
+      {
+        "timestamp": "06:49",
+        "highlight": "Завершение строительства",
+        "youtube_url": "https://www.youtube.com/watch?v=L64ge70a2o0_20250429_203546#t=06m49s"
+      }
+    ]
+  }
+]
+```

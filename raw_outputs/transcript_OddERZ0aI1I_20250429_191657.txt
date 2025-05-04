@@ -1,0 +1,102 @@
+```json
+[
+  {
+    "topic": "Двухэтажный каркасный дом под ключ",
+    "keywords": [
+      "каркасный дом",
+      "строительство под ключ",
+      "ипотека",
+      "переезд из Эстонии",
+      "проект дома",
+      "смета",
+      "отзыв о компании",
+      "внутренняя отделка",
+      "обустройство участка"
+    ],
+    "summary": "Заказчики переехали из Эстонии и построили двухэтажный каркасный дом под ключ в компании \"Строй Живи\", используя ипотеку. Дом площадью 135 кв. м с отделкой обошелся в 10 млн рублей, не включая камин, потолки и лестницу.",
+    "text": "Заказчики переехали из Эстонии и построили двухэтажный каркасный дом под ключ в компании \"Строй Живи\", используя ипотеку. Дом площадью 135 кв. м с отделкой обошелся в 10 млн рублей, не включая камин, потолки и лестницу. В доме три спальни, два санузла, кухня-гостиная и котельная. Утепление стен - 150 мм плюс перекрестное утепление, полы - 200 мм плюс сухая стяжка и теплый пол. Заказчики довольны качеством строительства и планируют дальнейшее благоустройство участка.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Вступление о двухэтажном каркасном доме под ключ",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=00m00s"
+      },
+      {
+        "timestamp": "00:24",
+        "highlight": "История заказчиков, переехавших из Прибалтики",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=00m24s"
+      },
+      {
+        "timestamp": "01:02",
+        "highlight": "Обсуждение наружной отделки дома",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=01m02s"
+      },
+      {
+        "timestamp": "02:18",
+        "highlight": "Планы по обустройству участка",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=02m18s"
+      },
+      {
+        "timestamp": "04:23",
+        "highlight": "Экскурсия по дому: прихожая, котельная, санузел",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=04m23s"
+      },
+      {
+        "timestamp": "05:51",
+        "highlight": "Лестница на второй этаж",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=05m51s"
+      },
+      {
+        "timestamp": "07:05",
+        "highlight": "Гостевая комната и кабинет",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=07m05s"
+      },
+      {
+        "timestamp": "08:49",
+        "highlight": "Второй этаж: детские комнаты, санузел",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=08m49s"
+      },
+      {
+        "timestamp": "11:29",
+        "highlight": "Обсуждение камина и отопления",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=11m29s"
+      },
+      {
+        "timestamp": "13:15",
+        "highlight": "Технические характеристики дома: утепление, высота потолков",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=13m15s"
+      },
+      {
+        "timestamp": "14:20",
+        "highlight": "История переезда заказчиков из Эстонии",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=14m20s"
+      },
+      {
+        "timestamp": "18:50",
+        "highlight": "Финансовые вопросы: ипотека, стоимость строительства",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=18m50s"
+      },
+      {
+        "timestamp": "22:30",
+        "highlight": "Обустройство участка и планы на будущее",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=22m30s"
+      },
+      {
+        "timestamp": "25:58",
+        "highlight": "Общая площадь дома и стоимость строительства за квадратный метр",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=25m58s"
+      },
+      {
+        "timestamp": "28:41",
+        "highlight": "Выбор каркасного дома вместо каменного",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=28m41s"
+      },
+      {
+        "timestamp": "29:41",
+        "highlight": "Благодарность заказчиков строительной компании",
+        "youtube_url": "https://www.youtube.com/watch?v=OddERZ0aI1I_20250429_191657#t=29m41s"
+      }
+    ]
+  }
+]
+```

@@ -1,0 +1,211 @@
+```json
+[
+  {
+    "topic": "Фундаменты с цокольным этажом в сложных условиях",
+    "keywords": [
+      "цокольный этаж",
+      "фундамент",
+      "дренаж",
+      "утепление",
+      "геотекстиль",
+      "косогор",
+      "щебень",
+      "гидроизоляция"
+    ],
+    "summary": "В видео рассказывается о строительстве фундаментов с цокольным этажом на сложных участках с косогором, включая дренаж, утепление и гидроизоляцию.",
+    "text": "В видео обсуждается строительство фундаментов с цокольным этажом на участках с неровным рельефом, включая косогор. Основные этапы: подготовка основания, устройство дренажной системы, укладка геотекстиля и щебня, монтаж гидроизоляции и утепление. Особое внимание уделяется тому, как правильно организовать отвод воды и утеплить фундамент, чтобы избежать промерзания и повреждений от грунтовых вод.",
+    "fragments": [
+      {
+        "timestamp": "00:03",
+        "highlight": "Введение и приветствие",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=00m03s"
+      },
+      {
+        "timestamp": "00:14",
+        "highlight": "Рассказ о фундаментах на ровной площадке",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=00m14s"
+      },
+      {
+        "timestamp": "00:37",
+        "highlight": "Переход к теме строительства на косогоре",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=00m37s"
+      },
+      {
+        "timestamp": "01:09",
+        "highlight": "Описание основания котлована и дренажа",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=01m09s"
+      },
+      {
+        "timestamp": "01:40",
+        "highlight": "Использование геотекстиля и щебня",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=01m40s"
+      },
+      {
+        "timestamp": "02:05",
+        "highlight": "Разделение дренажной системы на два контура",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=02m05s"
+      },
+      {
+        "timestamp": "02:19",
+        "highlight": "Организация отвода воды от дома",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=02m19s"
+      },
+      {
+        "timestamp": "03:13",
+        "highlight": "Использование керамзитобетонных блоков",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=03m13s"
+      },
+      {
+        "timestamp": "03:45",
+        "highlight": "Сравнение бетонных и керамзитобетонных блоков",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=03m45s"
+      },
+      {
+        "timestamp": "04:14",
+        "highlight": "Армирование блоков и их устойчивость",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=04m14s"
+      },
+      {
+        "timestamp": "05:21",
+        "highlight": "Устройство ребер жесткости для устойчивости",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=05m21s"
+      },
+      {
+        "timestamp": "06:01",
+        "highlight": "Утепление стен и его особенности",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=06m01s"
+      },
+      {
+        "timestamp": "07:08",
+        "highlight": "Гидроизоляция фундамента",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=07m08s"
+      },
+      {
+        "timestamp": "07:27",
+        "highlight": "Использование битумной гидроизоляции",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=07m27s"
+      },
+      {
+        "timestamp": "07:39",
+        "highlight": "Крепление пенопласта для утепления",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=07m39s"
+      },
+      {
+        "timestamp": "08:03",
+        "highlight": "Монтаж мембраны для защиты утеплителя",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=08m03s"
+      },
+      {
+        "timestamp": "08:35",
+        "highlight": "Засыпка щебня и его укладка",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=08m35s"
+      },
+      {
+        "timestamp": "09:29",
+        "highlight": "Использование геотекстиля для защиты щебня",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=09m29s"
+      },
+      {
+        "timestamp": "09:53",
+        "highlight": "Завершение монтажа мембраны и подготовка к засыпке",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=09m53s"
+      },
+      {
+        "timestamp": "10:16",
+        "highlight": "Особенности утепления стеновых блоков",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=10m16s"
+      },
+      {
+        "timestamp": "11:29",
+        "highlight": "Использование заливных бетонных блоков",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=11m29s"
+      },
+      {
+        "timestamp": "12:39",
+        "highlight": "Применение керамзитобетонных блоков в строительстве",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=12m39s"
+      },
+      {
+        "timestamp": "13:33",
+        "highlight": "Устройство межэтажных перекрытий",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=13m33s"
+      },
+      {
+        "timestamp": "15:07",
+        "highlight": "Монтаж перекрытий с использованием клееных балок",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=15m07s"
+      },
+      {
+        "timestamp": "16:27",
+        "highlight": "Устройство теплых полов в каркасных домах",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=16m27s"
+      },
+      {
+        "timestamp": "17:16",
+        "highlight": "Особенности строительства каркасных домов в Финляндии",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=17m16s"
+      },
+      {
+        "timestamp": "20:20",
+        "highlight": "Использование заводских и самодельных конструкций в строительстве",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=20m20s"
+      },
+      {
+        "timestamp": "22:04",
+        "highlight": "Возведение стен и кровли в каркасном доме",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=22m04s"
+      },
+      {
+        "timestamp": "23:51",
+        "highlight": "Строительство на сложных участках",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=23m51s"
+      },
+      {
+        "timestamp": "25:10",
+        "highlight": "Использование кранов и другой техники на стройплощадке",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=25m10s"
+      },
+      {
+        "timestamp": "26:19",
+        "highlight": "Организация складирования материалов на участке",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=26m19s"
+      },
+      {
+        "timestamp": "27:28",
+        "highlight": "Использование манипуляторов для установки стеклопакетов",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=27m28s"
+      },
+      {
+        "timestamp": "29:44",
+        "highlight": "Применение армопояса в строительстве",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=29m44s"
+      },
+      {
+        "timestamp": "31:07",
+        "highlight": "Устройство армопояса с использованием опалубки",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=31m07s"
+      },
+      {
+        "timestamp": "32:09",
+        "highlight": "Использование теплых блоков для утепления армопояса",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=32m09s"
+      },
+      {
+        "timestamp": "33:10",
+        "highlight": "Завершение строительства и подведение итогов",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=33m10s"
+      },
+      {
+        "timestamp": "34:42",
+        "highlight": "Перспективы дальнейшего сотрудничества и ответы на вопросы",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=34m42s"
+      },
+      {
+        "timestamp": "36:08",
+        "highlight": "Заключительные слова и благодарности",
+        "youtube_url": "https://www.youtube.com/watch?v=M2mJ-ZBa-EM_20250429_205224#t=36m08s"
+      }
+    ]
+  }
+]
+```
