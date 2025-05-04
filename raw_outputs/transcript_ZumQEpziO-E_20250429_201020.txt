@@ -1,0 +1,146 @@
+```json
+[
+  {
+    "topic": "Виды подкладочных ковров под мягкую кровлю",
+    "keywords": [
+      "подкладочные ковры",
+      "мягкая кровля",
+      "технониколь",
+      "андерлей",
+      "монтаж",
+      "гидроизоляция",
+      "битумные материалы",
+      "полимерные материалы"
+    ],
+    "summary": "Обзор различных видов подкладочных ковров под мягкую кровлю от компании Технониколь, включая их характеристики, стоимость и рекомендации по применению.",
+    "text": "В видео подробно рассматриваются различные виды подкладочных ковров для мягкой кровли от компании Технониколь. Представлены материалы старой и новой линейки, а также новые полимерные ковры. Объясняются различия в характеристиках, стоимости и применении. Подчеркивается, что для правильного монтажа мягкой кровли необходимо использовать как минимум два вида ковров: самоклеящийся для мест с высокой вероятностью протечек (карнизы, ендовы, фронтоны, мансардные окна) и обычный для остальной площади кровли. Даются рекомендации по выбору оптимального решения в зависимости от бюджета и требований к надежности кровли.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Введение в тему подкладочных ковров под мягкую кровлю",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=00m00s"
+      },
+      {
+        "timestamp": "00:08",
+        "highlight": "Цель видео — разобраться с подкладочными коврами",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=00m08s"
+      },
+      {
+        "timestamp": "00:37",
+        "highlight": "Представлены 10 разных рулонов подкладочных ковров",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=00m37s"
+      },
+      {
+        "timestamp": "01:01",
+        "highlight": "Приглашен технический специалист компании Технониколь",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=01m01s"
+      },
+      {
+        "timestamp": "01:42",
+        "highlight": "Категории подкладочных ковров: обязательные и для остальной площади",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=01m42s"
+      },
+      {
+        "timestamp": "02:03",
+        "highlight": "Самоклеящийся ковер для мест с высокой вероятностью протечек",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=02m03s"
+      },
+      {
+        "timestamp": "02:23",
+        "highlight": "Цены на ковры приведены из интернет-магазина Технониколь",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=02m23s"
+      },
+      {
+        "timestamp": "02:58",
+        "highlight": "Самый дорогой ковер из старой линейки — Андре Ультра",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=02m58s"
+      },
+      {
+        "timestamp": "03:20",
+        "highlight": "Необходимость использования мастики для проклейки перехлестов",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=03m20s"
+      },
+      {
+        "timestamp": "03:46",
+        "highlight": "Остальные ковры служат для закрытия основания под мягкую черепицу",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=03m46s"
+      },
+      {
+        "timestamp": "03:57",
+        "highlight": "Ковры расположены по возрастанию цены",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=03m57s"
+      },
+      {
+        "timestamp": "04:20",
+        "highlight": "История подкладочных ковров в Технониколь",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=04m20s"
+      },
+      {
+        "timestamp": "04:44",
+        "highlight": "Битумный материал Андрелей",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=04m44s"
+      },
+      {
+        "timestamp": "05:02",
+        "highlight": "Модернизация ковров с добавлением клеевых полос",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=05m02s"
+      },
+      {
+        "timestamp": "05:20",
+        "highlight": "Разница в стоимости между старыми и новыми коврами",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=05m20s"
+      },
+      {
+        "timestamp": "05:35",
+        "highlight": "Два новых ковра, которые легче и надежнее старых",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=05m35s"
+      },
+      {
+        "timestamp": "06:07",
+        "highlight": "Два уникальных полимерных ковра без битума",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=06m07s"
+      },
+      {
+        "timestamp": "06:20",
+        "highlight": "Применение полимерных ковров только под бюджетные черепицы",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=06m20s"
+      },
+      {
+        "timestamp": "06:51",
+        "highlight": "Рекомендации по использованию самоклеящегося ковра в местах протечек",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=06m51s"
+      },
+      {
+        "timestamp": "07:15",
+        "highlight": "Бюджетный вариант использования полимерного ковра",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=07m15s"
+      },
+      {
+        "timestamp": "07:28",
+        "highlight": "Оптимальный вариант для заказчиков — использование двух ковров",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=07m28s"
+      },
+      {
+        "timestamp": "07:45",
+        "highlight": "Гарантия на систему и на продукцию",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=07m45s"
+      },
+      {
+        "timestamp": "08:05",
+        "highlight": "Рекомендации по выбору ковров в зависимости от класса черепицы",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=08m05s"
+      },
+      {
+        "timestamp": "08:20",
+        "highlight": "Ссылки на сайт Технониколь и интернет-магазин",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=08m20s"
+      },
+      {
+        "timestamp": "08:33",
+        "highlight": "Заключение и призыв к изучению материалов",
+        "youtube_url": "https://www.youtube.com/watch?v=ZumQEpziO-E_20250429_201020#t=08m33s"
+      }
+    ]
+  }
+]
+```

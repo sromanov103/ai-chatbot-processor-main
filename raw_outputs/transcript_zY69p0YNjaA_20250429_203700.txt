@@ -1,0 +1,138 @@
+```json
+[
+  {
+    "topic": "Межэтажные перекрытия в доме из клееного бруса",
+    "keywords": [
+      "клееный брус",
+      "межэтажные перекрытия",
+      "опора бруса",
+      "лаги",
+      "нагрузки"
+    ],
+    "summary": "В видео рассказывается о том, как выполняются межэтажные перекрытия в доме из клееного бруса, какие материалы и крепежи используются, а также о расчете нагрузок и шага лаг.",
+    "text": "В доме из клееного бруса межэтажные перекрытия выполняются с помощью опор бруса, в которые вставляются лаги перекрытия. Шаг лаг рассчитывается исходя из нагрузок, обычно 150 кг на квадратный метр. На данном объекте шаг уменьшен до 20 см для большей надежности и уменьшения скрипов. Крепление опор бруса производится ершеными гвоздями толщиной 4 мм, но из-за отсутствия инструмента временно использовались саморезы. Перекрытие террасы выполнено на винтовых сваях с обвязкой из пакета досок и лагами из сухой строганной доски. Крепление лаг к срубу производится металлическими уголками и гвоздями.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "перекрытие в доме из клееного бруса",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=00m00s"
+      },
+      {
+        "timestamp": "03:05",
+        "highlight": "как выполняется межэтажное перекрытие",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m05s"
+      },
+      {
+        "timestamp": "03:13",
+        "highlight": "из какой доски и с каким шагом делается перекрытие",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m13s"
+      },
+      {
+        "timestamp": "03:25",
+        "highlight": "межэтажное перекрытие принимает на себя нагрузки",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m25s"
+      },
+      {
+        "timestamp": "03:37",
+        "highlight": "в клееном брусе нет возможности разорвать венцы и вставить перекрытия",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m37s"
+      },
+      {
+        "timestamp": "03:46",
+        "highlight": "использование опоры бруса для крепления лаг",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m46s"
+      },
+      {
+        "timestamp": "03:53",
+        "highlight": "расчет пролетов и нагрузок",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=03m53s"
+      },
+      {
+        "timestamp": "04:11",
+        "highlight": "шаг лаг 600 мм - максимальное значение",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=04m11s"
+      },
+      {
+        "timestamp": "04:30",
+        "highlight": "шаг лаг уменьшен до 20 см для большей надежности",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=04m30s"
+      },
+      {
+        "timestamp": "04:53",
+        "highlight": "использование одинарных лаг для уменьшения скрипов",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=04m53s"
+      },
+      {
+        "timestamp": "05:15",
+        "highlight": "крепление опор бруса ершеными гвоздями",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=05m15s"
+      },
+      {
+        "timestamp": "05:30",
+        "highlight": "временное использование саморезов из-за отсутствия инструмента",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=05m30s"
+      },
+      {
+        "timestamp": "05:57",
+        "highlight": "применение пистолета для забивания гвоздей",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=05m57s"
+      },
+      {
+        "timestamp": "06:34",
+        "highlight": "перекрытие террасы на винтовых сваях",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=06m34s"
+      },
+      {
+        "timestamp": "06:46",
+        "highlight": "обвязка из пакета досок",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=06m46s"
+      },
+      {
+        "timestamp": "06:59",
+        "highlight": "перекрытие из сухой строганной доски",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=06m59s"
+      },
+      {
+        "timestamp": "07:13",
+        "highlight": "крепление лаг к срубу на гвозди",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=07m13s"
+      },
+      {
+        "timestamp": "07:26",
+        "highlight": "использование металлического уголка для крепления лаг",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=07m26s"
+      },
+      {
+        "timestamp": "07:39",
+        "highlight": "применение пистолета для забивания гвоздей в металлический крепеж",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=07m39s"
+      },
+      {
+        "timestamp": "08:19",
+        "highlight": "забивание гвоздей в отверстия металлического уголка",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=08m19s"
+      },
+      {
+        "timestamp": "08:37",
+        "highlight": "дополнительный ряд свай для надежности перекрытия террасы",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=08m37s"
+      },
+      {
+        "timestamp": "08:59",
+        "highlight": "сравнение гвоздей и саморезов для крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=08m59s"
+      },
+      {
+        "timestamp": "09:32",
+        "highlight": "недостатки черных саморезов для крепления",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=09m32s"
+      },
+      {
+        "timestamp": "09:45",
+        "highlight": "ручное забивание гвоздей при отсутствии пистолета",
+        "youtube_url": "https://www.youtube.com/watch?v=zY69p0YNjaA_20250429_203700#t=09m45s"
+      }
+    ]
+  }
+]
+```

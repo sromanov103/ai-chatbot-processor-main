@@ -1,0 +1,126 @@
+```json
+[
+  {
+    "topic": "Ветро-влагозащита и вентиляционный зазор",
+    "keywords": [
+      "ветро-влагозащита",
+      "вентиляционный зазор",
+      "пароизоляция",
+      "утеплитель",
+      "каркасный дом",
+      "внешняя отделка",
+      "имитация бруса",
+      "планкен"
+    ],
+    "summary": "Ветро-влагозащита устанавливается снаружи каркаса, обеспечивая защиту от воды и ветра, при этом пропуская пар из утеплителя. Вентиляционный зазор необходим для выветривания влаги из стены.",
+    "text": "Ветро-влагозащита - это материал, который устанавливается снаружи каркаса и защищает утеплитель от воды и ветра, но при этом пропускает пар, который может выходить из утеплителя. Для обеспечения выветривания влаги из стены необходимо создать вентиляционный зазор, который обеспечивается установкой брусков поверх ветро-влагозащиты. Важно не перекрывать вентиляционный зазор, особенно в местах оконных проемов и других конструктивных элементов. После монтажа ветро-влагозащиты и брусков устанавливается сетка от грызунов и отливы, а затем приступают к монтажу внешней отделки.",
+    "fragments": [
+      {
+        "timestamp": "00:00",
+        "highlight": "Введение и приветствие",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=00m00s"
+      },
+      {
+        "timestamp": "00:09",
+        "highlight": "Начало строительства каркасной бани",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=00m09s"
+      },
+      {
+        "timestamp": "00:19",
+        "highlight": "Сборка перекрытия, каркаса стен и кровли",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=00m19s"
+      },
+      {
+        "timestamp": "00:30",
+        "highlight": "Монтаж ветро-влагозащиты",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=00m30s"
+      },
+      {
+        "timestamp": "00:40",
+        "highlight": "Объяснение принципа работы ветро-влагозащиты и пароизоляции",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=00m40s"
+      },
+      {
+        "timestamp": "01:38",
+        "highlight": "Обеспечение вентиляционного зазора",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=01m38s"
+      },
+      {
+        "timestamp": "02:18",
+        "highlight": "Особенности монтажа вентиляционного зазора в районе оконных проемов",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=02m18s"
+      },
+      {
+        "timestamp": "03:30",
+        "highlight": "Монтаж сетки от грызунов и отливов",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=03m30s"
+      },
+      {
+        "timestamp": "04:11",
+        "highlight": "Монтаж внешней отделки",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=04m11s"
+      },
+      {
+        "timestamp": "04:26",
+        "highlight": "Грунтовка и покраска деревянной внешней отделки",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=04m26s"
+      },
+      {
+        "timestamp": "04:51",
+        "highlight": "Монтаж имитации бруса",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=04m51s"
+      },
+      {
+        "timestamp": "05:12",
+        "highlight": "Монтаж прямого планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=05m12s"
+      },
+      {
+        "timestamp": "05:35",
+        "highlight": "Особенности монтажа прямого планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=05m35s"
+      },
+      {
+        "timestamp": "05:59",
+        "highlight": "Монтаж скошенного планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=05m59s"
+      },
+      {
+        "timestamp": "06:30",
+        "highlight": "Особенности монтажа скошенного планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=06m30s"
+      },
+      {
+        "timestamp": "07:17",
+        "highlight": "Комбинированный фасад из имитации бруса и скошенного планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=07m17s"
+      },
+      {
+        "timestamp": "07:45",
+        "highlight": "Альтернативные методы крепления планкена",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=07m45s"
+      },
+      {
+        "timestamp": "08:47",
+        "highlight": "Ссылки на другие социальные сети",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=08m47s"
+      },
+      {
+        "timestamp": "09:15",
+        "highlight": "Стыковка разных материалов под 45 градусов",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=09m15s"
+      },
+      {
+        "timestamp": "09:51",
+        "highlight": "Завершение внешней отделки и переход к утеплению и пароизоляции",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=09m51s"
+      },
+      {
+        "timestamp": "09:55",
+        "highlight": "Прощание и анонс следующей серии",
+        "youtube_url": "https://www.youtube.com/watch?v=ZqwA8dIMrvs_20250429_192818#t=09m55s"
+      }
+    ]
+  }
+]
+```
